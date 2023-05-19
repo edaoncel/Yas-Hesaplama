@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\yas hesaplama\bin\Debug\yas hesaplama.exe.config
+C:\Users\eda öncel\Desktop\yas hesaplama\bin\Debug\yas hesaplama.exe
+C:\Users\eda öncel\Desktop\yas hesaplama\bin\Debug\yas hesaplama.pdb
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas_hesaplama.Form1.resources
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas_hesaplama.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.exe
+C:\Users\eda öncel\Desktop\yas hesaplama\obj\Debug\yas hesaplama.pdb
